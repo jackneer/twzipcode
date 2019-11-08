@@ -1,0 +1,1388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"or",
+				"ordered_roads"
+			],
+			[
+				"ra",
+				"raw_cities〔variable〕"
+			],
+			[
+				"cit",
+				"city_list〔variable〕"
+			],
+			[
+				"zip",
+				"zipcodes〔variable〕"
+			],
+			[
+				"c",
+				"cities\tstatement"
+			],
+			[
+				"get",
+				"getArea〔variable〕"
+			],
+			[
+				"z",
+				"zipcodes\tstatement"
+			],
+			[
+				"ro",
+				"row_index〔variable〕"
+			],
+			[
+				"I",
+				"INTO"
+			],
+			[
+				"In",
+				"INSERT"
+			],
+			[
+				"nae",
+				"name\tparam"
+			],
+			[
+				"p",
+				"person"
+			],
+			[
+				"tr",
+				"True\tkeyword"
+			],
+			[
+				"M",
+				"Mutation"
+			],
+			[
+				"en",
+				"engine\tstatement"
+			],
+			[
+				"ex",
+				"extract"
+			],
+			[
+				"S",
+				"String\tclass"
+			],
+			[
+				"ext",
+				"extracted"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"Ha",
+				"HelloHandler"
+			],
+			[
+				"s",
+				"setHandler"
+			],
+			[
+				"err",
+				"errCode"
+			],
+			[
+				"b",
+				"base_response"
+			],
+			[
+				"h",
+				"hpp"
+			],
+			[
+				"e",
+				"errMsg"
+			],
+			[
+				"er",
+				"errCode"
+			],
+			[
+				"r",
+				"router"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"se",
+				"server"
+			],
+			[
+				"add",
+				"add_executable\tcommand"
+			],
+			[
+				"a",
+				"add_executable\tcommand"
+			],
+			[
+				"cmake",
+				"cmake_minimum_required\tcommand"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"B",
+				"Boost"
+			],
+			[
+				"Boos",
+				"Boost_Lib_Pack"
+			],
+			[
+				"target",
+				"target_link_libraries\tcommand"
+			],
+			[
+				"bp",
+				"bp_base〔module〕"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"oc",
+				"ocr_txt〔variable〕"
+			],
+			[
+				"cr",
+				"crop\tparam"
+			],
+			[
+				"st",
+				"startY〔variable〕"
+			],
+			[
+				"resize",
+				"resize_w〔variable〕"
+			],
+			[
+				"fr",
+				"frame_rate〔variable〕"
+			],
+			[
+				"sk",
+				"skvideo"
+			],
+			[
+				"pre",
+				"prediction〔variable〕"
+			],
+			[
+				"fac",
+				"face_recognizer〔variable〕"
+			],
+			[
+				"fa",
+				"faceAligned〔variable〕"
+			],
+			[
+				"face",
+				"faces〔variable〕"
+			],
+			[
+				"pr",
+				"proba〔variable〕"
+			],
+			[
+				"cla",
+				"classes_"
+			],
+			[
+				"lab",
+				"labels〔variable〕"
+			],
+			[
+				"conf",
+				"confidences"
+			],
+			[
+				"con",
+				"confidences"
+			],
+			[
+				"ma",
+				"matches〔variable〕"
+			],
+			[
+				"la",
+				"labels〔variable〕"
+			],
+			[
+				"labe",
+				"labels"
+			],
+			[
+				"im",
+				"imutils〔module〕"
+			],
+			[
+				"rect",
+				"rect_to_bb"
+			],
+			[
+				"start",
+				"startY〔variable〕"
+			],
+			[
+				"des",
+				"desiredFaceWidth\tparam"
+			],
+			[
+				"lo",
+				"load_recognizer〔function〕"
+			],
+			[
+				"n",
+				"names\tstatement"
+			],
+			[
+				"em",
+				"embeddings"
+			],
+			[
+				"dete",
+				"detector"
+			],
+			[
+				"load_",
+				"load_landmark_detector_predictor〔function〕"
+			],
+			[
+				"delta",
+				"deltaY"
+			],
+			[
+				"max",
+				"max_face_size〔variable〕"
+			],
+			[
+				"del",
+				"deltaX"
+			],
+			[
+				"star",
+				"startX〔variable〕"
+			],
+			[
+				"end",
+				"endX〔variable〕"
+			],
+			[
+				"fil",
+				"filename〔variable〕"
+			],
+			[
+				"update",
+				"updateImageSyncState"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"uplo",
+				"uploadAndroid"
+			],
+			[
+				"item",
+				"items1〔variable〕"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"set",
+				"setMessagesRead"
+			],
+			[
+				"me",
+				"messageIds"
+			],
+			[
+				"d",
+				"downImages"
+			],
+			[
+				"syn",
+				"syncImage"
+			],
+			[
+				"ite",
+				"items1"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"Ann",
+				"AnnounceItem"
+			],
+			[
+				"T",
+				"TouchableOpacity"
+			],
+			[
+				"Te",
+				"TextInput"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"ge",
+				"genInventory"
+			],
+			[
+				"u",
+				"unitId"
+			],
+			[
+				"sty",
+				"styles〔variable〕"
+			],
+			[
+				"m",
+				"mounted"
+			],
+			[
+				"in",
+				"inventoryList"
+			],
+			[
+				"reset",
+				"resetInventory"
+			],
+			[
+				"t",
+				"task"
+			],
+			[
+				"th",
+				"then"
+			],
+			[
+				"o",
+				"onGoing"
+			],
+			[
+				"sync",
+				"syncState"
+			],
+			[
+				"up",
+				"updateInventory"
+			],
+			[
+				"realm",
+				"realm.objects('AssetInventoryRecord"
+			],
+			[
+				"dir",
+				"dirtyList〔variable〕"
+			],
+			[
+				"di",
+				"dirtyList"
+			],
+			[
+				"fle",
+				"flexDirection〔variable〕"
+			],
+			[
+				"take",
+				"takeQty"
+			],
+			[
+				"flex",
+				"flexDirection〔variable〕"
+			],
+			[
+				"ti",
+				"timeDiff"
+			],
+			[
+				"time",
+				"timeDiff"
+			],
+			[
+				"g",
+				"group"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"ass",
+				"assetName"
+			],
+			[
+				"Sea",
+				"SearchBar"
+			],
+			[
+				"gr",
+				"group3"
+			],
+			[
+				"rende",
+				"renderSceneMap"
+			],
+			[
+				"ref",
+				"refresh"
+			],
+			[
+				"is",
+				"isHidden"
+			],
+			[
+				"dis",
+				"districtId"
+			],
+			[
+				"su",
+				"subUnit"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"sce",
+				"sceneMap"
+			],
+			[
+				"sa",
+				"saveUnit"
+			],
+			[
+				"rea",
+				"realm"
+			],
+			[
+				"cha",
+				"changeQty"
+			],
+			[
+				"ch",
+				"changeQty"
+			],
+			[
+				"ta",
+				"taskCallback"
+			],
+			[
+				"lis",
+				"listeners"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 1326,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models.py",
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"cmake build",
+					""
+				],
+				[
+					"cmake build",
+					"clean"
+				]
+			],
+			[
+				"cmake build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"cmake build",
+					""
+				],
+				[
+					"cmake build",
+					"clean"
+				],
+				[
+					"cmake build",
+					"run"
+				]
+			],
+			[
+				"cmake build",
+				"run"
+			]
+		],
+		[
+			[
+				[
+					"cmake build",
+					""
+				],
+				[
+					"cmake build",
+					"clean"
+				],
+				[
+					"cmake build",
+					"run"
+				],
+				[
+					"cmake build",
+					"serve"
+				]
+			],
+			[
+				"cmake build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jack/test_projects/tw_zipcode"
+	],
+	"file_history":
+	[
+		"/home/jack/Downloads/code_def2.sql",
+		"/home/jack/Downloads/medi_test_code_def (1).sql",
+		"/home/jack/Downloads/meditation (1).log",
+		"/home/jack/Downloads/meditation.log",
+		"/home/jack/test_projects/graphql/schema.py",
+		"/home/jack/test_projects/graphql/app.py",
+		"/home/jack/test_projects/graphql/database.py",
+		"/home/jack/test_projects/graphql/models.py",
+		"/home/jack/Documents/中台/活動/sql/event_pgm_unit_20191017.sql",
+		"/home/jack/Documents/中台/禪修班需求文件/SQL_Async/class_ct_member_info.sql",
+		"/home/jack/sql/MemberInfoSelect4CSV.sql",
+		"/home/jack/Downloads/member_info.csv",
+		"/home/jack/Downloads/memberIds.csv",
+		"/home/jack/Documents/中台/活動/sql/20190705 event_pgm_unit.sql",
+		"/home/jack/Documents/中台/活動/sql/event_unit_info_20191017.sql",
+		"/home/jack/Documents/中台/活動/sql/20190705 event_unit_info.sql",
+		"/home/jack/Documents/中台/活動/sql/20190705 event_pgm_oca.sql",
+		"/home/jack/Documents/中台/活動/sql/20190628 ct_master_info.sql",
+		"/home/jack/Documents/中台/活動/sql/20190627 event_pgm_def.sql",
+		"/home/jack/Downloads/20190705 event_main.sql",
+		"/home/jack/test_projects/graphql/graphql.sublime-project",
+		"/home/jack/test_projects/graphql/manage.py",
+		"/home/jack/test_projects/graphql/.gitignore",
+		"/home/jack/test_projects/graphql/flask_migrate.py",
+		"/home/jack/test_projects/testgraphql/database.py",
+		"/home/jack/test_projects/testgraphql/models.py",
+		"/home/jack/test_projects/capi/src/extract.py",
+		"/home/jack/Pictures/tt/api-docs.json",
+		"/home/jack/test_projects/capi/cmake/FindSQLite3.cmake",
+		"/home/jack/test_projects/capi/src/base_controller.hpp",
+		"/home/jack/test_projects/capi/src/base_controller.cpp",
+		"/home/jack/test_projects/capi/src/base_request.hpp",
+		"/home/jack/test_projects/capi/src/base_response.hpp",
+		"/home/jack/test_projects/capi/src/base_request.cpp",
+		"/home/jack/test_projects/capi/src/server.cpp",
+		"/home/jack/test_projects/capi/README.md",
+		"/home/jack/test_projects/capi/capi.sublime-project",
+		"/home/jack/test_projects/capi/cmake/FindRapidJSON.cmake",
+		"/home/jack/test_projects/capi/src/base_response.cpp",
+		"/home/jack/test_projects/capi/.gitignore",
+		"/home/jack/test_projects/capi/src/main.cpp",
+		"/home/jack/Downloads/popup.js",
+		"/home/jack/test_projects/capi/cmake/FindPistache.cmake",
+		"/home/jack/test_projects/capi/src/test.cpp",
+		"/home/jack/test_projects/capi/CMakeLists.txt",
+		"/home/jack/projects/jcbp/src/main.cpp",
+		"/home/jack/projects/jcbp/src/test.cpp",
+		"/home/jack/projects/jcbp/CMakeLists.txt",
+		"/home/jack/projects/jcbp/jcbp.sublime-project",
+		"/home/jack/projects/jcbp/src/h.txt",
+		"/home/jack/projects/jcbp/src/v.txt",
+		"/home/jack/projects/jcbp/src/note.txt",
+		"/home/jack/projects/btest/package.json",
+		"/home/jack/projects/testgo/koat/package.json",
+		"/home/jack/projects/testgo/myapp/package.json",
+		"/home/jack/projects/sandbox/src/path_handler.cpp",
+		"/home/jack/projects/sandbox/CMakeLists.txt",
+		"/home/jack/projects/jcbp/README.md",
+		"/home/jack/projects/myrasa/config.json",
+		"/home/jack/projects/myrasa/config_jieba_mitie.yml",
+		"/home/jack/projects/myrasa/note.txt",
+		"/home/jack/projects/myrasa/.gitignore",
+		"/home/jack/projects/myrasa/data/examples/test_rasa_zh.md",
+		"/home/jack/projects/myrasa/test.py",
+		"/home/jack/projects/myrasa/myrasa.sublime-project",
+		"/home/jack/projects/myrasa/data/demo-rasa-zh.json",
+		"/home/jack/projects/testflask/.gitignore",
+		"/home/jack/projects/testflask/app/api.py",
+		"/home/jack/projects/whosface/.gitignore",
+		"/home/jack/projects/whosface/webcam_face_recognition_cv.py",
+		"/home/jack/projects/whosface/face_detection_dlib.py",
+		"/home/jack/projects/whosface/webcam_face_recognition.py",
+		"/home/jack/projects/whosface/facenet_test.py",
+		"/home/jack/projects/whosface/face_extraction.py",
+		"/home/jack/projects/whosface/face_extraction_dlib.py",
+		"/home/jack/projects/whosface/webcam_face_recognition_dlib.py",
+		"/home/jack/.config/sublime-text-3/Packages/SublimeGit/Default (Linux).sublime-keymap",
+		"/home/jack/projects/whosface/FaceAligner.py",
+		"/home/jack/projects/whosface/sample_images/sample_faces.jpg",
+		"/home/jack/projects/whosface/whosface.sublime-project",
+		"/home/jack/projects/whosface/webcam_face_detection.py",
+		"/home/jack/projects/whosface/detect_face.py",
+		"/home/jack/projects/whosface/train_model.py",
+		"/home/jack/projects/whosface/face_landmark.py",
+		"/home/jack/projects/whosface/test.py",
+		"/home/jack/WebstormProjects/native4/src/screens/AssetDetailScreen.js",
+		"/home/jack/WebstormProjects/native4/src/services/SyncAnnounce.js",
+		"/home/jack/WebstormProjects/native4/src/screens/HomeScreen.js",
+		"/home/jack/WebstormProjects/native4/src/screens/LoginScreen.js",
+		"/home/jack/WebstormProjects/native4/src/screens/TabScreen.js",
+		"/home/jack/WebstormProjects/native4/src/screens/SecondScreen.js",
+		"/home/jack/WebstormProjects/native4/src/config.json",
+		"/home/jack/WebstormProjects/native4/src/models/AssetInventoryRecord.js",
+		"/home/jack/WebstormProjects/native4/src/services/SomeTask.js",
+		"/home/jack/WebstormProjects/native4/src/services/SyncImage.js",
+		"/home/jack/WebstormProjects/native4/src/services/SyncAsset.js",
+		"/home/jack/WebstormProjects/native4/src/apis/MaterialApi.js",
+		"/home/jack/WebstormProjects/native4/src/components/DynamicText.js",
+		"/home/jack/WebstormProjects/native4/src/services/SyncInventory.js",
+		"/home/jack/Downloads/消防_catalina (1).out",
+		"/home/jack/WebstormProjects/native4/src/models/MaterialAssetRecord.js",
+		"/home/jack/WebstormProjects/native4/src/models/realm.js",
+		"/home/jack/projects/baymax/native4.sublime-project",
+		"/home/jack/WebstormProjects/native4/src/services/CommonLib.js",
+		"/home/jack/WebstormProjects/native4/src/screens/InventoryScreen.js",
+		"/home/jack/WebstormProjects/native4/src/components/AnnounceItem.js",
+		"/home/jack/WebstormProjects/native4/src/screens/AnnounceScreen.js",
+		"/home/jack/WebstormProjects/native4/src/components/InventoryItem.js",
+		"/home/jack/WebstormProjects/native4/src/screens/AssetScreen.js",
+		"/home/jack/projects/material/src/main/webapp/WEB-INF/views/index.html",
+		"/home/jack/WebstormProjects/native4/src/components/InventoryItem2.js",
+		"/home/jack/WebstormProjects/native4/src/screens/InventoryScreen2.js",
+		"/home/jack/WebstormProjects/native4/src/screens/InventoryDetailScreen.js",
+		"/home/jack/WebstormProjects/native4/src/models/MaterialCodeInfo.js",
+		"/home/jack/WebstormProjects/native4/src/models/ImageRecord.js",
+		"/home/jack/WebstormProjects/native4/src/index.js",
+		"/home/jack/WebstormProjects/native4/src/models/AnnounceRecord.js",
+		"/home/jack/WebstormProjects/native4/package.json",
+		"/home/jack/Downloads/巴克斯數位-條碼機測試狀況-20181205.txt",
+		"/home/jack/projects/material/src/main/java/tw/org/ctworld/material/controllers/BaseController.java",
+		"/home/jack/Downloads/TKD_tcgx_20181203_1525_event_tables_for_BOX.sql",
+		"/home/jack/WebstormProjects/native4/src/screens/UnitSelectScreen.js",
+		"/home/jack/WebstormProjects/native4/src/screens/AssetListScreen.js",
+		"/home/jack/WebstormProjects/native4/android/app/src/main/java/com/native4/MainApplication.java",
+		"/home/jack/WebstormProjects/native4/src/screens/UnitInfoListScreen.js",
+		"/home/jack/WebstormProjects/native4/src/screens/ListScreen.js",
+		"/home/jack/WebstormProjects/native4/README.md",
+		"/home/jack/WebstormProjects/native4/src/screens/QRCodeScreen.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"活動狀態",
+			"1264",
+			");",
+			"INSERT INTO `event_pgm_unit` VALUES (",
+			");",
+			"INSERT INTO `event_unit_info` VALUES (",
+			");",
+			"INSERT INTO `event_pgm_oca` VALUES (",
+			");",
+			"INSERT INTO `ct_master_info` VALUES ",
+			");",
+			"INSERT INTO `event_pgm_def` VALUES ",
+			"VALUES (",
+			");",
+			"INSERT INTO `event_main` "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"),",
+			"(",
+			"),",
+			"(",
+			"),",
+			"(",
+			"",
+			"),",
+			"",
+			"),",
+			"",
+			"(",
+			"),",
+			"",
+			"),",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										771,
+										772
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										762,
+										763
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 127.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 242.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 133.0
+	},
+	"output.git-push":
+	{
+		"height": 133.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "cmake build",
+	"project": "tw_zipcode.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/WebstormProjects/native4/native4.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 410.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
